@@ -1,8 +1,8 @@
-## Hi There! 👋
+# Hi There! 👋
 
 > **Terminal and browser** are what a web developer really need on a creative journey.
 
-### Development Stack
+## Development Stack
 
 My currently preferred stack
 
@@ -18,7 +18,7 @@ else
 end
 ```
 
-### Archived Stack
+## Archived Stack
 
 My "too old for this tech" table, or "I forgot how that tech was called" table, if you will.
 
