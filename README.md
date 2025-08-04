@@ -32,7 +32,7 @@ My "too old for this tech" table, or "I forgot how that tech was called" table, 
 | Communication | Discord, Gmail, Google Meet, Hey, Skype, Slack, Telegram, Whatsapp, Zoom |
 | Database Clients | Adminer, pgAdmin, phpMyAdmin, Sequel Pro, TablePlus |
 | Databases | CouchDB, Google Spreadsheet, MariaDB, MySQL, Percona, Postgres, Redis, SQLite |
-| Frameworks | Angular, Backbone, Bootstrap, CodeIgniter, Express, FastAPI, Fastify, Flight, Hotwire, Laravel, Material Design, Nuxt, React, Ruby on Rails, Stimulus, Symphony 2, Tailwind, TypeScript, Vue |
+| Frameworks | Angular, Backbone, Bootstrap, CodeIgniter, Express, FastAPI, Fastify, Flight, Hotwire, Laravel, Material Design, Next, Nuxt, React, Ruby on Rails, Stimulus, Symphony 2, Tailwind, TypeScript, Vue |
 | Graphic Design | Figma, Gimp, Illustrator, InDesign, Photoshop, Pixelmator, Sketch |
 | Hosting | AWS EC2 and S3, Google CloudRun, Heroku, Linode |
 | Javascript Libraries | date-fn, Google Fonts, jQuery, lodash, RTLCSS, SassDoc, underscore |
