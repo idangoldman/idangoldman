@@ -53,7 +53,7 @@ My "too old for this tech" table, or "I forgot how that tech was called" table, 
 | Task Runners and Deployers | Ant, Capistrano, Deployer, Fabric, Grunt, Gulp, Makefile, Rake, Taskfile, WordMove |
 | Template Engines | Blade, ERB, Haml, Handlebars, Jinja, Liquid, MJML, Mustache, Nunjucks, Pug, Slim, Smarty, Swig, Timber, Twig, Underscore |
 | Terminal Emulators | Console, iTerm, Kitty |
-| Testing | Bruno, Chrome Devtools, Cucumber, Cypress, Firebug, Jasmine, Jest, Minitest, Node, PHPUnit, Postman, Puppeteer, RSpec, SASS True, Selenium, Xdebug |
+| Testing | Bruno, Chrome Devtools, Capybara, Cucumber, Cypress, Firebug, Jasmine, Jest, Minitest, Node, PHPUnit, Postman, Puppeteer, RSpec, SASS True, Selenium, Xdebug |
 | Text Editors | Apple Notes, GoodNotes, iA Writer, Notepad, Obsidian, Simplenote |
 | Time Trackers | Everhour, Toggl |
 | Version Control | git, Lazygit, mercury, svn |
