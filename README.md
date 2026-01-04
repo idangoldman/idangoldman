@@ -26,7 +26,7 @@ My "too old for this tech" table, or "I forgot how that tech was called" table, 
 | :- | :- |
 | Automation | Make, Zapier |
 | Browsers | Chrome, Chromium, IE6-8, Netscape-Mozilla-Firefox, Opera, Safari, Thor, Web (Epiphany) |
-| Bundlers | esbuild, parcel, postcss, PostCSS, RequireJS, vite, webpack |
+| Bundlers | esbuild, parcel, PostCSS, RequireJS, vite, webpack |
 | CLI Tools | awk, curl, dig, dotbot, find, grep, htop, ip, nmap, nslookup, ping, rename, rsync, scp, sed, socat, ssh, traceroute, wget, whois, wp-cli, xargs |
 | Code Editors | Adobe Dreamweaver, Aptana, Atom, Brackets, Coffeecup HTML Editor, Eclipse, Nano, NetBeans, Notepad++, PHPStorm, Sublime text, TextMate, Vim, VSCode, WebStorm |
 | Communication | Discord, Gmail, Google Meet, Hey, Skype, Slack, Telegram, Whatsapp, Zoom |
@@ -38,7 +38,7 @@ My "too old for this tech" table, or "I forgot how that tech was called" table, 
 | Javascript Libraries | date-fn, Google Fonts, jQuery, lodash, RTLCSS, SassDoc, underscore |
 | Language Managers | asdf, fnm, nvm, pyenv, rbenv, rvm |
 | Languages | AppScript, Bash, Fish, Gherkin, JavaScript, PHP, PL/SQL, Python, Ruby, SQL |
-| Linters and Formatters | Black, Editorconfig, ESlint, PHPCBF, PHP_CodeSniffer, Prettier, Rubocop, StyleLint |
+| Linters and Formatters | Black, Editorconfig, ESLint, PHPCBF, PHP_CodeSniffer, Prettier, Rubocop, StyleLint |
 | Markup Languages | CSS, HTML, Less, Markdown, SASS, Stylus, SVG |
 | Officeware | Alfred, Google Workplace, Raycast |
 | Operation Systems | Android, CentOS, Debian, Fedora, iOS, iPadOS, macOS since Leopard, NixOS, Ubuntu desktop && server, Windows 98 to XP |
