@@ -1,6 +1,6 @@
 # Hi There! 👋
 
-> **Terminal and browser** are what a web developer really need on a creative journey.
+> All a web developer really needs for the creative journey 🟰 a terminal && a browser.
 
 ## Development Stack
 
