@@ -20,7 +20,7 @@ end
 
 ## Archived Stack
 
-My "too old for this tech" table, or "I forgot how that tech was called" table, if you will.
+My "_too old for this tech_" table, or "_I forgot how that tech was called_" table, if you will.
 
 | Category | Items |
 | :- | :- |
